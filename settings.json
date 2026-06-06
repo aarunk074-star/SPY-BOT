@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HyMrSpYMC.aternos.me",
-    "port": 29188,
+    "ip": "NotFriendsMc.aternos.me",
+    "port": 16381,
     "version": "1.21.11"
   },
   "position": {
